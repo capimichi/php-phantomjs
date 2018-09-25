@@ -1,0 +1,17 @@
+{
+    "name": "capimichi/php-phantomjs",
+    "description": "Run phantomjs script trough PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michele Capicchioni",
+            "email": "capimichi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PhpPhantomjs\\": "src/"
+        }
+    }
+}
